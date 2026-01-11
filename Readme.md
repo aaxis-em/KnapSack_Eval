@@ -4,4 +4,4 @@ Analysis of knapsack by implementing portfolio optimizer. Comparision with Dynam
 
 ## Time Comparision
 
-[image](./knapsack_time_comparison.png)
+![image](./knapsack_time_comparison.png)
